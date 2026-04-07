@@ -47,7 +47,7 @@ nav a:hover {
 .hero {
   height: 100vh;
   background: linear-gradient(rgba(11,31,58,0.8), rgba(11,31,58,0.95)),
-              url('https://images.unsplash.com/photo-1581578731548-c64695cc6952');
+              url('https://images.ctfassets.net/09muo917z9ra/011Jp5awuyDAYrRnkWbflW/3980382ae624a2ef096dd9e50d734ab8/IMG-20260225-WA0125.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
